@@ -34,7 +34,7 @@
 Почніть зі клонування репозиторію на свій комп'ютер:
 
 ```bash
-git clone <URL_репозиторію>
+git clone https://github.com/m-zagornyak/weathe_rapp/tree/main
 ```
 
 ## Крок 2: Встановлення необхідних бібліотек
